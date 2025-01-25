@@ -1,6 +1,6 @@
 Hi 👋,I’m Suraj Honmane
-- 👀 I’m interested in Frontend Development And Android Devlopment.
-- 🌱 I’m currently learning Android Devlopment.
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on Software Devlopment.
 - 📫 How to reach me surajhonmane18@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/Suraj-18-tech
